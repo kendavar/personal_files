@@ -1,0 +1,7 @@
+#terminal
+username : root
+password : hadoop
+
+#browser
+username : admin
+password : admin

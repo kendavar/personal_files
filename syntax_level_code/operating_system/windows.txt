@@ -1,0 +1,15 @@
+
+--to run windows programs
+
+$cd .wine/drive_c/
+$cd "Program Files (x86)"
+$cd Crimson\ Editor/
+
+--to know all the tricks in crimson editor
+
+$~/.wine/drive_c/Program Files (x86)/Crimson Editor$ winetricks mfc42
+
+
+--to run crimson editor
+
+$~/.wine/drive_c/Program Files (x86)/Crimson Editor$ wine ./cedt.exe 

@@ -1,0 +1,28 @@
+#Create a account     
+git config --global user.name "Karanam Kendavar" #“global means this user config changes”
+git config --global user.email "kendacool@gmail.com"
+git config --list #list all the config file.
+git config --global core.editor atom   #setup a editor to track
+
+#Create a git project
+git init #create or initialize git
+
+#add all the changes to project
+git add .
+
+#to create a snapshot
+git commit -m “This is our first commit”
+
+#To get log
+git log
+git log --author="Karanam"
+
+Working copy >staging area > repository
+
+#to get the difference
+Git diff
+
+
+
+ 
+
